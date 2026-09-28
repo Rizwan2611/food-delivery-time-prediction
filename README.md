@@ -3,12 +3,12 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project builds a clean, end-to-end Machine Learning pipeline to predict food delivery times (in minutes) for on-demand platforms (e.g., Zomato, Swiggy, Uber Eats). The code is written in a simple, modular style with **zero hardcoding**—all missing values, outliers, encodings, metric thresholds, and model rankings are derived dynamically from the dataset.
 
 ---
 
-## 📁 Project Directory Structure
+## Project Directory Structure
 ```
 ML_Main_Project/
 ├── app/
@@ -29,7 +29,7 @@ ML_Main_Project/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Run the Jupyter Notebook
 Open [Food_Delivery_Time_Prediction.ipynb](file:///Users/rizwansalmani/Desktop/ML_Main_Project/notebooks/Food_Delivery_Time_Prediction.ipynb) in your IDE or launch Jupyter:
@@ -49,7 +49,7 @@ This opens the web app in your browser at `http://localhost:8501`, allowing user
 
 ---
 
-## 📊 Summary of Implemented ML Algorithms & Comparison
+## Summary of Implemented ML Algorithms & Comparison
 
 | Algorithm | Test $R^2$ | CV $R^2$ (5-Fold) | MSE | RMSE (min) | MAE (min) |
 |---|---|---|---|---|---|
